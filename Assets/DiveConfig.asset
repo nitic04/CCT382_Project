@@ -22,7 +22,7 @@ MonoBehaviour:
   stealthOffset: -0.2
   minHeight: 0.5
   gravity: -20
-  chainWindow: 2.5
+  chainWindow: 1.5
   cooldown: 3
   shakeStrength: 1
   pitchRange: {x: 0.9, y: 1.1}
